@@ -6,7 +6,7 @@ Referências:
 - [https://aws.amazon.com/pt/ec2/](https://aws.amazon.com/pt/ec2/)
 - [https://aws.amazon.com/pt/vpc/](https://aws.amazon.com/pt/vpc/)
 
-O Amazon EC2 pode ser utilizado para hospedar quaisquer aplicações, tais como aplicações web, aplicações MiddleWare, aplicações de banco de dados, jogos, aplicações empresariais, entre outras.
+O Amazon EC2 pode ser utilizado para hospedar quaisquer aplicações, tais como aplicações web, aplicações MiddleWare, aplicações de banco de dados, jogos, aplicações empresariais, entre ouutras.
 
 O Amazon VPC pode ser utilizado para você iniciar recursos da AWS em uma rede virtual isolada logicamente.
 
